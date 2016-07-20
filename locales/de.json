@@ -1,0 +1,606 @@
+{
+  "1": {
+    "name": "Bisasam",
+    "type": []
+  },
+  "2": {
+    "name": "Bisaknosp",
+    "type": []
+  },
+  "3": {
+    "name": "Bisaflor",
+    "type": []
+  },
+  "4": {
+    "name": "Glumanda",
+    "type": []
+  },
+  "5": {
+    "name": "Glutexo",
+    "type": []
+  },
+  "6": {
+    "name": "Glurak",
+    "type": []
+  },
+  "7": {
+    "name": "Schiggy",
+    "type": []
+  },
+  "8": {
+    "name": "Schillok",
+    "type": []
+  },
+  "9": {
+    "name": "Turtok",
+    "type": []
+  },
+  "10": {
+    "name": "Raupy",
+    "type": []
+  },
+  "11": {
+    "name": "Safcon",
+    "type": []
+  },
+  "12": {
+    "name": "Smettbo",
+    "type": []
+  },
+  "13": {
+    "name": "Hornliu",
+    "type": []
+  },
+  "14": {
+    "name": "Kokuna",
+    "type": []
+  },
+  "15": {
+    "name": "Bibor",
+    "type": []
+  },
+  "16": {
+    "name": "Taubsi",
+    "type": []
+  },
+  "17": {
+    "name": "Tauboga",
+    "type": []
+  },
+  "18": {
+    "name": "Tauboss",
+    "type": []
+  },
+  "19": {
+    "name": "Rattfratz",
+    "type": []
+  },
+  "20": {
+    "name": "Rattikarl",
+    "type": []
+  },
+  "21": {
+    "name": "Habitak",
+    "type": []
+  },
+  "22": {
+    "name": "Ibitak",
+    "type": []
+  },
+  "23": {
+    "name": "Rettan",
+    "type": []
+  },
+  "24": {
+    "name": "Arbok",
+    "type": []
+  },
+  "25": {
+    "name": "Pikachu",
+    "type": []
+  },
+  "26": {
+    "name": "Raichu",
+    "type": []
+  },
+  "27": {
+    "name": "Sandan",
+    "type": []
+  },
+  "28": {
+    "name": "Sandamer",
+    "type": []
+  },
+  "29": {
+    "name": "Nidoran♀",
+    "type": []
+  },
+  "30": {
+    "name": "Nidorina",
+    "type": []
+  },
+  "31": {
+    "name": "Nidoqueen",
+    "type": []
+  },
+  "32": {
+    "name": "Nidoran♂",
+    "type": []
+  },
+  "33": {
+    "name": "Nidorino",
+    "type": []
+  },
+  "34": {
+    "name": "Nidoking",
+    "type": []
+  },
+  "35": {
+    "name": "Piepi",
+    "type": []
+  },
+  "36": {
+    "name": "Pixi",
+    "type": []
+  },
+  "37": {
+    "name": "Vulpix",
+    "type": []
+  },
+  "38": {
+    "name": "Vulnona",
+    "type": []
+  },
+  "39": {
+    "name": "Pummeluff",
+    "type": []
+  },
+  "40": {
+    "name": "Knuddeluff",
+    "type": []
+  },
+  "41": {
+    "name": "Zubat",
+    "type": []
+  },
+  "42": {
+    "name": "Golbat",
+    "type": []
+  },
+  "43": {
+    "name": "Myrapla",
+    "type": []
+  },
+  "44": {
+    "name": "Duflor",
+    "type": []
+  },
+  "45": {
+    "name": "Giflor",
+    "type": []
+  },
+  "46": {
+    "name": "Paras",
+    "type": []
+  },
+  "47": {
+    "name": "Parasek",
+    "type": []
+  },
+  "48": {
+    "name": "Bluzuk",
+    "type": []
+  },
+  "49": {
+    "name": "Omot",
+    "type": []
+  },
+  "50": {
+    "name": "Digda",
+    "type": []
+  },
+  "51": {
+    "name": "Digdri",
+    "type": []
+  },
+  "52": {
+    "name": "Mauzi",
+    "type": []
+  },
+  "53": {
+    "name": "Snobilikat",
+    "type": []
+  },
+  "54": {
+    "name": "Enton",
+    "type": []
+  },
+  "55": {
+    "name": "Entoron",
+    "type": []
+  },
+  "56": {
+    "name": "Menki",
+    "type": []
+  },
+  "57": {
+    "name": "Rasaff",
+    "type": []
+  },
+  "58": {
+    "name": "Fukano",
+    "type": []
+  },
+  "59": {
+    "name": "Arkani",
+    "type": []
+  },
+  "60": {
+    "name": "Quapsel",
+    "type": []
+  },
+  "61": {
+    "name": "Quaputzi",
+    "type": []
+  },
+  "62": {
+    "name": "Quappo",
+    "type": []
+  },
+  "63": {
+    "name": "Abra",
+    "type": []
+  },
+  "64": {
+    "name": "Kadabra",
+    "type": []
+  },
+  "65": {
+    "name": "Simsala",
+    "type": []
+  },
+  "66": {
+    "name": "Machollo",
+    "type": []
+  },
+  "67": {
+    "name": "Maschock",
+    "type": []
+  },
+  "68": {
+    "name": "Machomei",
+    "type": []
+  },
+  "69": {
+    "name": "Knofensa",
+    "type": []
+  },
+  "70": {
+    "name": "Ultrigaria",
+    "type": []
+  },
+  "71": {
+    "name": "Sarzenia",
+    "type": []
+  },
+  "72": {
+    "name": "Tentacha",
+    "type": []
+  },
+  "73": {
+    "name": "Tentoxa",
+    "type": []
+  },
+  "74": {
+    "name": "Kleinstein",
+    "type": []
+  },
+  "75": {
+    "name": "Georok",
+    "type": []
+  },
+  "76": {
+    "name": "Geowaz",
+    "type": []
+  },
+  "77": {
+    "name": "Ponita",
+    "type": []
+  },
+  "78": {
+    "name": "Gallopa",
+    "type": []
+  },
+  "79": {
+    "name": "Flegmon",
+    "type": []
+  },
+  "80": {
+    "name": "Lahmus",
+    "type": []
+  },
+  "81": {
+    "name": "Magnetilo",
+    "type": []
+  },
+  "82": {
+    "name": "Magneton",
+    "type": []
+  },
+  "83": {
+    "name": "Porenta",
+    "type": []
+  },
+  "84": {
+    "name": "Dodu",
+    "type": []
+  },
+  "85": {
+    "name": "Dodri",
+    "type": []
+  },
+  "86": {
+    "name": "Jurob",
+    "type": []
+  },
+  "87": {
+    "name": "Jugong",
+    "type": []
+  },
+  "88": {
+    "name": "Sleima",
+    "type": []
+  },
+  "89": {
+    "name": "Sleimok",
+    "type": []
+  },
+  "90": {
+    "name": "Muschas",
+    "type": []
+  },
+  "91": {
+    "name": "Austos",
+    "type": []
+  },
+  "92": {
+    "name": "Nebulak",
+    "type": []
+  },
+  "93": {
+    "name": "Alpollo",
+    "type": []
+  },
+  "94": {
+    "name": "Gengar",
+    "type": []
+  },
+  "95": {
+    "name": "Onix",
+    "type": []
+  },
+  "96": {
+    "name": "Traumato",
+    "type": []
+  },
+  "97": {
+    "name": "Hypno",
+    "type": []
+  },
+  "98": {
+    "name": "Krabby",
+    "type": []
+  },
+  "99": {
+    "name": "Kingler",
+    "type": []
+  },
+  "100": {
+    "name": "Voltobal",
+    "type": []
+  },
+  "101": {
+    "name": "Lektrobal",
+    "type": []
+  },
+  "102": {
+    "name": "Owei",
+    "type": []
+  },
+  "103": {
+    "name": "Kokowei",
+    "type": []
+  },
+  "104": {
+    "name": "Tragosso",
+    "type": []
+  },
+  "105": {
+    "name": "Knogga",
+    "type": []
+  },
+  "106": {
+    "name": "Kicklee",
+    "type": []
+  },
+  "107": {
+    "name": "Nockchan",
+    "type": []
+  },
+  "108": {
+    "name": "Schlurp",
+    "type": []
+  },
+  "109": {
+    "name": "Smogon",
+    "type": []
+  },
+  "110": {
+    "name": "Smogmog",
+    "type": []
+  },
+  "111": {
+    "name": "Rihorn",
+    "type": []
+  },
+  "112": {
+    "name": "Rizeros",
+    "type": []
+  },
+  "113": {
+    "name": "Chaneira",
+    "type": []
+  },
+  "114": {
+    "name": "Tangela",
+    "type": []
+  },
+  "115": {
+    "name": "Kangama",
+    "type": []
+  },
+  "116": {
+    "name": "Seeper",
+    "type": []
+  },
+  "117": {
+    "name": "Seemon",
+    "type": []
+  },
+  "118": {
+    "name": "Goldini",
+    "type": []
+  },
+  "119": {
+    "name": "Golking",
+    "type": []
+  },
+  "120": {
+    "name": "Sterndu",
+    "type": []
+  },
+  "121": {
+    "name": "Starmie",
+    "type": []
+  },
+  "122": {
+    "name": "Pantimos",
+    "type": []
+  },
+  "123": {
+    "name": "Sichlor",
+    "type": []
+  },
+  "124": {
+    "name": "Rossana",
+    "type": []
+  },
+  "125": {
+    "name": "Elektek",
+    "type": []
+  },
+  "126": {
+    "name": "Magmar",
+    "type": []
+  },
+  "127": {
+    "name": "Pinsir",
+    "type": []
+  },
+  "128": {
+    "name": "Tauros",
+    "type": []
+  },
+  "129": {
+    "name": "Karpador",
+    "type": []
+  },
+  "130": {
+    "name": "Garados",
+    "type": []
+  },
+  "131": {
+    "name": "Lapras",
+    "type": []
+  },
+  "132": {
+    "name": "Ditto",
+    "type": []
+  },
+  "133": {
+    "name": "Evoli",
+    "type": []
+  },
+  "134": {
+    "name": "Aquana",
+    "type": []
+  },
+  "135": {
+    "name": "Blitza",
+    "type": []
+  },
+  "136": {
+    "name": "Flamara",
+    "type": []
+  },
+  "137": {
+    "name": "Porygon",
+    "type": []
+  },
+  "138": {
+    "name": "Amonitas",
+    "type": []
+  },
+  "139": {
+    "name": "Amoroso",
+    "type": []
+  },
+  "140": {
+    "name": "Kabuto",
+    "type": []
+  },
+  "141": {
+    "name": "Kabutops",
+    "type": []
+  },
+  "142": {
+    "name": "Aerodactyl",
+    "type": []
+  },
+  "143": {
+    "name": "Relaxo",
+    "type": []
+  },
+  "144": {
+    "name": "Arktos",
+    "type": []
+  },
+  "145": {
+    "name": "Zapdos",
+    "type": []
+  },
+  "146": {
+    "name": "Lavados",
+    "type": []
+  },
+  "147": {
+    "name": "Dratini",
+    "type": []
+  },
+  "148": {
+    "name": "Dragonir",
+    "type": []
+  },
+  "149": {
+    "name": "Dragoran",
+    "type": []
+  },
+  "150": {
+    "name": "Mewtu",
+    "type": []
+  },
+  "151": {
+    "name": "Mew",
+    "type": []
+  }
+}
