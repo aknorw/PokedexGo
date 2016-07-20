@@ -1,6 +1,6 @@
 {
   "name": "pokedexgo",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Localizable Pokédex for Niantic's Pokémon Go",
   "main": "./dist/index.js",
   "scripts": {

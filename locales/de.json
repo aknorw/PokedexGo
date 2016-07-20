@@ -1,606 +1,970 @@
 {
   "1": {
     "name": "Bisasam",
-    "type": []
+    "type": [
+      "Pflanze",
+      "Gift"
+    ]
   },
   "2": {
     "name": "Bisaknosp",
-    "type": []
+    "type": [
+      "Pflanze",
+      "Gift"
+    ]
   },
   "3": {
     "name": "Bisaflor",
-    "type": []
+    "type": [
+      "Pflanze",
+      "Gift"
+    ]
   },
   "4": {
     "name": "Glumanda",
-    "type": []
+    "type": [
+      "Feuer"
+    ]
   },
   "5": {
     "name": "Glutexo",
-    "type": []
+    "type": [
+      "Feuer"
+    ]
   },
   "6": {
     "name": "Glurak",
-    "type": []
+    "type": [
+      "Feuer",
+      "Flug"
+    ]
   },
   "7": {
     "name": "Schiggy",
-    "type": []
+    "type": [
+      "Wasser"
+    ]
   },
   "8": {
     "name": "Schillok",
-    "type": []
+    "type": [
+      "Wasser"
+    ]
   },
   "9": {
     "name": "Turtok",
-    "type": []
+    "type": [
+      "Wasser"
+    ]
   },
   "10": {
     "name": "Raupy",
-    "type": []
+    "type": [
+      "Käfer"
+    ]
   },
   "11": {
     "name": "Safcon",
-    "type": []
+    "type": [
+      "Käfer"
+    ]
   },
   "12": {
     "name": "Smettbo",
-    "type": []
+    "type": [
+      "Käfer",
+      "Flug"
+    ]
   },
   "13": {
     "name": "Hornliu",
-    "type": []
+    "type": [
+      "Käfer",
+      "Gift"
+    ]
   },
   "14": {
     "name": "Kokuna",
-    "type": []
+    "type": [
+      "Käfer",
+      "Gift"
+    ]
   },
   "15": {
     "name": "Bibor",
-    "type": []
+    "type": [
+      "Käfer",
+      "Gift"
+    ]
   },
   "16": {
     "name": "Taubsi",
-    "type": []
+    "type": [
+      "Normal",
+      "Flug"
+    ]
   },
   "17": {
     "name": "Tauboga",
-    "type": []
+    "type": [
+      "Normal",
+      "Flug"
+    ]
   },
   "18": {
     "name": "Tauboss",
-    "type": []
+    "type": [
+      "Normal",
+      "Flug"
+    ]
   },
   "19": {
     "name": "Rattfratz",
-    "type": []
+    "type": [
+      "Normal"
+    ]
   },
   "20": {
     "name": "Rattikarl",
-    "type": []
+    "type": [
+      "Normal"
+    ]
   },
   "21": {
     "name": "Habitak",
-    "type": []
+    "type": [
+      "Normal",
+      "Flug"
+    ]
   },
   "22": {
     "name": "Ibitak",
-    "type": []
+    "type": [
+      "Normal",
+      "Flug"
+    ]
   },
   "23": {
     "name": "Rettan",
-    "type": []
+    "type": [
+      "Gift"
+    ]
   },
   "24": {
     "name": "Arbok",
-    "type": []
+    "type": [
+      "Gift"
+    ]
   },
   "25": {
     "name": "Pikachu",
-    "type": []
+    "type": [
+      "Elektro"
+    ]
   },
   "26": {
     "name": "Raichu",
-    "type": []
+    "type": [
+      "Elektro"
+    ]
   },
   "27": {
     "name": "Sandan",
-    "type": []
+    "type": [
+      "Boden"
+    ]
   },
   "28": {
     "name": "Sandamer",
-    "type": []
+    "type": [
+      "Boden"
+    ]
   },
   "29": {
     "name": "Nidoran♀",
-    "type": []
+    "type": [
+      "Gift"
+    ]
   },
   "30": {
     "name": "Nidorina",
-    "type": []
+    "type": [
+      "Gift"
+    ]
   },
   "31": {
     "name": "Nidoqueen",
-    "type": []
+    "type": [
+      "Gift",
+      "Boden"
+    ]
   },
   "32": {
     "name": "Nidoran♂",
-    "type": []
+    "type": [
+      "Gift"
+    ]
   },
   "33": {
     "name": "Nidorino",
-    "type": []
+    "type": [
+      "Gift"
+    ]
   },
   "34": {
     "name": "Nidoking",
-    "type": []
+    "type": [
+      "Gift",
+      "Boden"
+    ]
   },
   "35": {
     "name": "Piepi",
-    "type": []
+    "type": [
+      "Normal"
+    ]
   },
   "36": {
     "name": "Pixi",
-    "type": []
+    "type": [
+      "Normal"
+    ]
   },
   "37": {
     "name": "Vulpix",
-    "type": []
+    "type": [
+      "Feuer"
+    ]
   },
   "38": {
     "name": "Vulnona",
-    "type": []
+    "type": [
+      "Feuer"
+    ]
   },
   "39": {
     "name": "Pummeluff",
-    "type": []
+    "type": [
+      "Normal"
+    ]
   },
   "40": {
     "name": "Knuddeluff",
-    "type": []
+    "type": [
+      "Normal"
+    ]
   },
   "41": {
     "name": "Zubat",
-    "type": []
+    "type": [
+      "Gift",
+      "Flug"
+    ]
   },
   "42": {
     "name": "Golbat",
-    "type": []
+    "type": [
+      "Gift",
+      "Flug"
+    ]
   },
   "43": {
     "name": "Myrapla",
-    "type": []
+    "type": [
+      "Pflanze",
+      "Gift"
+    ]
   },
   "44": {
     "name": "Duflor",
-    "type": []
+    "type": [
+      "Pflanze",
+      "Gift"
+    ]
   },
   "45": {
     "name": "Giflor",
-    "type": []
+    "type": [
+      "Pflanze",
+      "Gift"
+    ]
   },
   "46": {
     "name": "Paras",
-    "type": []
+    "type": [
+      "Käfer",
+      "Pflanze"
+    ]
   },
   "47": {
     "name": "Parasek",
-    "type": []
+    "type": [
+      "Käfer",
+      "Pflanze"
+    ]
   },
   "48": {
     "name": "Bluzuk",
-    "type": []
+    "type": [
+      "Käfer",
+      "Gift"
+    ]
   },
   "49": {
     "name": "Omot",
-    "type": []
+    "type": [
+      "Käfer",
+      "Gift"
+    ]
   },
   "50": {
     "name": "Digda",
-    "type": []
+    "type": [
+      "Boden"
+    ]
   },
   "51": {
     "name": "Digdri",
-    "type": []
+    "type": [
+      "Boden"
+    ]
   },
   "52": {
     "name": "Mauzi",
-    "type": []
+    "type": [
+      "Normal"
+    ]
   },
   "53": {
     "name": "Snobilikat",
-    "type": []
+    "type": [
+      "Normal"
+    ]
   },
   "54": {
     "name": "Enton",
-    "type": []
+    "type": [
+      "Wasser"
+    ]
   },
   "55": {
     "name": "Entoron",
-    "type": []
+    "type": [
+      "Wasser"
+    ]
   },
   "56": {
     "name": "Menki",
-    "type": []
+    "type": [
+      "Kampf"
+    ]
   },
   "57": {
     "name": "Rasaff",
-    "type": []
+    "type": [
+      "Kampf"
+    ]
   },
   "58": {
     "name": "Fukano",
-    "type": []
+    "type": [
+      "Feuer"
+    ]
   },
   "59": {
     "name": "Arkani",
-    "type": []
+    "type": [
+      "Feuer"
+    ]
   },
   "60": {
     "name": "Quapsel",
-    "type": []
+    "type": [
+      "Wasser"
+    ]
   },
   "61": {
     "name": "Quaputzi",
-    "type": []
+    "type": [
+      "Wasser"
+    ]
   },
   "62": {
     "name": "Quappo",
-    "type": []
+    "type": [
+      "Wasser",
+      "Kampf"
+    ]
   },
   "63": {
     "name": "Abra",
-    "type": []
+    "type": [
+      "Psycho"
+    ]
   },
   "64": {
     "name": "Kadabra",
-    "type": []
+    "type": [
+      "Psycho"
+    ]
   },
   "65": {
     "name": "Simsala",
-    "type": []
+    "type": [
+      "Psycho"
+    ]
   },
   "66": {
     "name": "Machollo",
-    "type": []
+    "type": [
+      "Kampf"
+    ]
   },
   "67": {
     "name": "Maschock",
-    "type": []
+    "type": [
+      "Kampf"
+    ]
   },
   "68": {
     "name": "Machomei",
-    "type": []
+    "type": [
+      "Kampf"
+    ]
   },
   "69": {
     "name": "Knofensa",
-    "type": []
+    "type": [
+      "Pflanze",
+      "Gift"
+    ]
   },
   "70": {
     "name": "Ultrigaria",
-    "type": []
+    "type": [
+      "Pflanze",
+      "Gift"
+    ]
   },
   "71": {
     "name": "Sarzenia",
-    "type": []
+    "type": [
+      "Pflanze",
+      "Gift"
+    ]
   },
   "72": {
     "name": "Tentacha",
-    "type": []
+    "type": [
+      "Wasser",
+      "Gift"
+    ]
   },
   "73": {
     "name": "Tentoxa",
-    "type": []
+    "type": [
+      "Wasser",
+      "Gift"
+    ]
   },
   "74": {
     "name": "Kleinstein",
-    "type": []
+    "type": [
+      "Gestein",
+      "Boden"
+    ]
   },
   "75": {
     "name": "Georok",
-    "type": []
+    "type": [
+      "Gestein",
+      "Boden"
+    ]
   },
   "76": {
     "name": "Geowaz",
-    "type": []
+    "type": [
+      "Gestein",
+      "Boden"
+    ]
   },
   "77": {
     "name": "Ponita",
-    "type": []
+    "type": [
+      "Feuer"
+    ]
   },
   "78": {
     "name": "Gallopa",
-    "type": []
+    "type": [
+      "Feuer"
+    ]
   },
   "79": {
     "name": "Flegmon",
-    "type": []
+    "type": [
+      "Wasser",
+      "Psycho"
+    ]
   },
   "80": {
     "name": "Lahmus",
-    "type": []
+    "type": [
+      "Wasser",
+      "Psycho"
+    ]
   },
   "81": {
     "name": "Magnetilo",
-    "type": []
+    "type": [
+      "Elektro"
+    ]
   },
   "82": {
     "name": "Magneton",
-    "type": []
+    "type": [
+      "Elektro"
+    ]
   },
   "83": {
     "name": "Porenta",
-    "type": []
+    "type": [
+      "Normal",
+      "Flug"
+    ]
   },
   "84": {
     "name": "Dodu",
-    "type": []
+    "type": [
+      "Normal",
+      "Flug"
+    ]
   },
   "85": {
     "name": "Dodri",
-    "type": []
+    "type": [
+      "Normal",
+      "Flug"
+    ]
   },
   "86": {
     "name": "Jurob",
-    "type": []
+    "type": [
+      "Wasser"
+    ]
   },
   "87": {
     "name": "Jugong",
-    "type": []
+    "type": [
+      "Wasser",
+      "Eis"
+    ]
   },
   "88": {
     "name": "Sleima",
-    "type": []
+    "type": [
+      "Gift"
+    ]
   },
   "89": {
     "name": "Sleimok",
-    "type": []
+    "type": [
+      "Gift"
+    ]
   },
   "90": {
     "name": "Muschas",
-    "type": []
+    "type": [
+      "Wasser"
+    ]
   },
   "91": {
     "name": "Austos",
-    "type": []
+    "type": [
+      "Wasser",
+      "Eis"
+    ]
   },
   "92": {
     "name": "Nebulak",
-    "type": []
+    "type": [
+      "Geist",
+      "Gift"
+    ]
   },
   "93": {
     "name": "Alpollo",
-    "type": []
+    "type": [
+      "Geist",
+      "Gift"
+    ]
   },
   "94": {
     "name": "Gengar",
-    "type": []
+    "type": [
+      "Geist",
+      "Gift"
+    ]
   },
   "95": {
     "name": "Onix",
-    "type": []
+    "type": [
+      "Gestein",
+      "Boden"
+    ]
   },
   "96": {
     "name": "Traumato",
-    "type": []
+    "type": [
+      "Psycho"
+    ]
   },
   "97": {
     "name": "Hypno",
-    "type": []
+    "type": [
+      "Psycho"
+    ]
   },
   "98": {
     "name": "Krabby",
-    "type": []
+    "type": [
+      "Wasser"
+    ]
   },
   "99": {
     "name": "Kingler",
-    "type": []
+    "type": [
+      "Wasser"
+    ]
   },
   "100": {
     "name": "Voltobal",
-    "type": []
+    "type": [
+      "Elektro"
+    ]
   },
   "101": {
     "name": "Lektrobal",
-    "type": []
+    "type": [
+      "Elektro"
+    ]
   },
   "102": {
     "name": "Owei",
-    "type": []
+    "type": [
+      "Pflanze",
+      "Psycho"
+    ]
   },
   "103": {
     "name": "Kokowei",
-    "type": []
+    "type": [
+      "Pflanze",
+      "Psycho"
+    ]
   },
   "104": {
     "name": "Tragosso",
-    "type": []
+    "type": [
+      "Boden"
+    ]
   },
   "105": {
     "name": "Knogga",
-    "type": []
+    "type": [
+      "Boden"
+    ]
   },
   "106": {
     "name": "Kicklee",
-    "type": []
+    "type": [
+      "Kampf"
+    ]
   },
   "107": {
     "name": "Nockchan",
-    "type": []
+    "type": [
+      "Kampf"
+    ]
   },
   "108": {
     "name": "Schlurp",
-    "type": []
+    "type": [
+      "Normal"
+    ]
   },
   "109": {
     "name": "Smogon",
-    "type": []
+    "type": [
+      "Gift"
+    ]
   },
   "110": {
     "name": "Smogmog",
-    "type": []
+    "type": [
+      "Gift"
+    ]
   },
   "111": {
     "name": "Rihorn",
-    "type": []
+    "type": [
+      "Boden",
+      "Gestein"
+    ]
   },
   "112": {
     "name": "Rizeros",
-    "type": []
+    "type": [
+      "Boden",
+      "Gestein"
+    ]
   },
   "113": {
     "name": "Chaneira",
-    "type": []
+    "type": [
+      "Normal"
+    ]
   },
   "114": {
     "name": "Tangela",
-    "type": []
+    "type": [
+      "Pflanze"
+    ]
   },
   "115": {
     "name": "Kangama",
-    "type": []
+    "type": [
+      "Normal"
+    ]
   },
   "116": {
     "name": "Seeper",
-    "type": []
+    "type": [
+      "Wasser"
+    ]
   },
   "117": {
     "name": "Seemon",
-    "type": []
+    "type": [
+      "Wasser"
+    ]
   },
   "118": {
     "name": "Goldini",
-    "type": []
+    "type": [
+      "Wasser"
+    ]
   },
   "119": {
     "name": "Golking",
-    "type": []
+    "type": [
+      "Wasser"
+    ]
   },
   "120": {
     "name": "Sterndu",
-    "type": []
+    "type": [
+      "Wasser"
+    ]
   },
   "121": {
     "name": "Starmie",
-    "type": []
+    "type": [
+      "Wasser",
+      "Psycho"
+    ]
   },
   "122": {
     "name": "Pantimos",
-    "type": []
+    "type": [
+      "Psycho"
+    ]
   },
   "123": {
     "name": "Sichlor",
-    "type": []
+    "type": [
+      "Käfer",
+      "Flug"
+    ]
   },
   "124": {
     "name": "Rossana",
-    "type": []
+    "type": [
+      "Eis",
+      "Psycho"
+    ]
   },
   "125": {
     "name": "Elektek",
-    "type": []
+    "type": [
+      "Elektro"
+    ]
   },
   "126": {
     "name": "Magmar",
-    "type": []
+    "type": [
+      "Feuer"
+    ]
   },
   "127": {
     "name": "Pinsir",
-    "type": []
+    "type": [
+      "Käfer"
+    ]
   },
   "128": {
     "name": "Tauros",
-    "type": []
+    "type": [
+      "Normal"
+    ]
   },
   "129": {
     "name": "Karpador",
-    "type": []
+    "type": [
+      "Wasser"
+    ]
   },
   "130": {
     "name": "Garados",
-    "type": []
+    "type": [
+      "Wasser",
+      "Flug"
+    ]
   },
   "131": {
     "name": "Lapras",
-    "type": []
+    "type": [
+      "Wasser",
+      "Eis"
+    ]
   },
   "132": {
     "name": "Ditto",
-    "type": []
+    "type": [
+      "Normal"
+    ]
   },
   "133": {
     "name": "Evoli",
-    "type": []
+    "type": [
+      "Normal"
+    ]
   },
   "134": {
     "name": "Aquana",
-    "type": []
+    "type": [
+      "Wasser"
+    ]
   },
   "135": {
     "name": "Blitza",
-    "type": []
+    "type": [
+      "Elektro"
+    ]
   },
   "136": {
     "name": "Flamara",
-    "type": []
+    "type": [
+      "Feuer"
+    ]
   },
   "137": {
     "name": "Porygon",
-    "type": []
+    "type": [
+      "Normal"
+    ]
   },
   "138": {
     "name": "Amonitas",
-    "type": []
+    "type": [
+      "Gestein",
+      "Wasser"
+    ]
   },
   "139": {
     "name": "Amoroso",
-    "type": []
+    "type": [
+      "Gestein",
+      "Wasser"
+    ]
   },
   "140": {
     "name": "Kabuto",
-    "type": []
+    "type": [
+      "Gestein",
+      "Wasser"
+    ]
   },
   "141": {
     "name": "Kabutops",
-    "type": []
+    "type": [
+      "Gestein",
+      "Wasser"
+    ]
   },
   "142": {
     "name": "Aerodactyl",
-    "type": []
+    "type": [
+      "Gestein",
+      "Flug"
+    ]
   },
   "143": {
     "name": "Relaxo",
-    "type": []
+    "type": [
+      "Normal"
+    ]
   },
   "144": {
     "name": "Arktos",
-    "type": []
+    "type": [
+      "Eis",
+      "Flug"
+    ]
   },
   "145": {
     "name": "Zapdos",
-    "type": []
+    "type": [
+      "Elektro",
+      "Flug"
+    ]
   },
   "146": {
     "name": "Lavados",
-    "type": []
+    "type": [
+      "Feuer",
+      "Flug"
+    ]
   },
   "147": {
     "name": "Dratini",
-    "type": []
+    "type": [
+      "Drache"
+    ]
   },
   "148": {
     "name": "Dragonir",
-    "type": []
+    "type": [
+      "Drache"
+    ]
   },
   "149": {
     "name": "Dragoran",
-    "type": []
+    "type": [
+      "Drache",
+      "Flug"
+    ]
   },
   "150": {
     "name": "Mewtu",
-    "type": []
+    "type": [
+      "Psycho"
+    ]
   },
   "151": {
     "name": "Mew",
-    "type": []
+    "type": [
+      "Psycho"
+    ]
   }
 }

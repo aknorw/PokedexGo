@@ -50,7 +50,7 @@ This Pokédex is an array of objects which has the following structure:
         ...
       ]
 
-Key | Type | .. | Unit | Remark
+Key | Type | Meaning | Unit | Remark
 --- | --- | --- | --- | ---
 id | `number` | Unique ID | *-* | -
 num | `string` | Pokédex number | *-* | -
@@ -71,9 +71,13 @@ Feel free to add other languages !
 ## Special thanks
 
 * [Biuni's PokemonGOPokedex](https://github.com/Biuni/PokemonGOPokedex) for the data
-* [AHAAAAAAA's PokemonGo-Map ](https://github.com/AHAAAAAAA/PokemonGo-Map) for the French and German translations
+* [AHAAAAAAA's PokemonGo-Map](https://github.com/AHAAAAAAA/PokemonGo-Map) for the French and German translations
+
+## Release history
+
+* **1.1.0** Localized types for French and German added
+* **1.0.0** Initial release
 
 ## To-do
 
 * Add test script
-* Add localized types for German and French
