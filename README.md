@@ -41,6 +41,7 @@ This Pokédex is an array of objects which has the following structure:
           weight: 6.9,
           candy: 25,
           egg: 2,
+          max_cp: 1071.54,
           name: 'Bulbasaur',
           type: [
             'Grass',
@@ -58,6 +59,7 @@ height | `number` | Height of the Pokémon | *m* | -
 weight | `number` | Weight of the Pokémon | *kg* | -
 candy | `number` | Number of candies needed to evolve | *candies* | If 0, no evolution
 egg | `number` | Distance to hatch as an egg | *km* | If 0, not available as an egg
+max_cp | `number` | Maximum CP | *CP* | -
 name | `string` | Name of the Pokémon | *-* | -
 type | `array` | Types of the Pokémon | *-* | -
 
@@ -75,6 +77,7 @@ Feel free to add other languages !
 
 ## Release history
 
+* **1.2.0** Maximum CP added
 * **1.1.0** Localized types for French and German added
 * **1.0.0** Initial release
 
